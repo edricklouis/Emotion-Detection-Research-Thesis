@@ -1,3 +1,3 @@
-# Emotion-Detection-Research-Thesis
+# Emotion Detection Research Thesis
 
 This project is part of my undergraduate thesis research that focuses on emotion detection in Indonesian-language social media comments related to music content. The study collects 1,000 comments from platforms such as YouTube and TikTok and manually labels them into five emotion categories: happiness, sadness, fear, love, and anger. To perform the classification task, the project implements three different approaches: traditional machine learning models using TF-IDF and SVD for feature extraction, a deep learning model based on IndoBERT, and a hybrid approach that combines BERT embeddings with traditional machine learning classifiers. The research also includes stages such as data preprocessing, feature extraction, model training, and evaluation to analyze how different modeling approaches handle emotion classification in Indonesian text.
